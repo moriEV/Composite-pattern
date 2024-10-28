@@ -17,7 +17,7 @@ namespace Composite_pattern
             }
             else
             {
-                Console.WriteLine("Ты че урод");
+                Console.WriteLine("Critical error");
             }
         }
         public void Remove(IDocumentComponent component)
